@@ -32,7 +32,7 @@ Tenho 27 anos, e desde 2002 estou congelando no frio que faz em São Paulo/SP. E
 <div>
   
 <a href="https://github.com/francosoa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francosoai&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francosoa&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francosoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
