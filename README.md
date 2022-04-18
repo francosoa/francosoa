@@ -13,7 +13,7 @@ Tenho 27 anos, e desde 2002 estou congelando no frio que faz em São Paulo/SP. N
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />         
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />        
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<script align="center" height="30" width="40" src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+<span class="iconify" data-icon="logos:airflow"></span>
   
 </div>
 
