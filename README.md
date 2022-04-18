@@ -2,7 +2,7 @@
 
 <img width="390" alt="Captura de Tela 2022-04-18 às 12 09 51" src="https://user-images.githubusercontent.com/76532722/163829063-29148d45-8aae-4089-9932-416d199ef718.png">
 
-Tenho 27 anos, e desde 2002 estou congelando no frio que faz em São Paulo/SP. No ano de 2021 fiz uma transição de carreiras, e hoje atuo como Analytics Engineer na Creditas. 
+Tenho 27 anos, e desde 2002 estou congelando no frio que faz em São Paulo/SP. Em 2021 fiz uma transição de carreiras, e hoje atuo como Analytics Engineer na Creditas. 
 
 ### Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
